@@ -1,0 +1,102 @@
+Abdominal pain
+Aggression
+Agitation
+Allergic reaction
+Amnesia
+Anemia
+Back pain
+Blindness
+Blurred vision
+Bone pain
+Breast pain
+breathing
+Chest pain
+Chills
+Cold symptoms
+Colitis
+Colored vision
+Confusion
+Constipation
+Cough
+Diabetes mellitus
+Diarrhea
+Dizziness
+Dry mouth
+Dyspepsia
+Exhaustion
+Fainting
+Fast heartbeat
+Fever
+Fluid in the lungs
+Frequent urination
+Hair loss
+Hallucinations
+Headache
+Heart attack
+Heart palpitations
+Heartburn
+Hepatitus
+High blood pressure
+Hostile
+Hostility
+Hyperactive
+Hyperglycemia
+Impulsive
+Indigestion
+Insomnia
+Intestinal bleeding
+Irregular heartbeat
+Irritability
+Irritable
+Itching
+Jaundice
+Joint pain
+Ketoacidosis
+Kidney failure
+Leg cramps
+Liver damage
+Loss of appetite
+Low blood cell counts
+Low blood pressure
+Lower respiratory infection
+Moodiness
+Muscle pain
+Nausea
+Nightmares
+Overly excited
+Palpitations
+Pancreatitis
+Panicky
+Personality disorder
+Postural hypotension
+Pulmonary thrombosis
+Rectal bleeding
+Seizures
+Severe skin reactions
+Severely restless
+shortness of breath
+Shortness of breath
+Skin rash
+Sleeplessness
+Slow heartbeat
+Sore throat
+Spasm
+Speech disorder
+Stomach bleeding
+Stomach pain
+Stroke
+Sweating
+Sweats
+Swelling
+Thrombosis
+tinnitus
+Tiredness
+Upper respiratory infection
+Upset Stomach
+urinary retention
+Urinary tract infection
+vertigo
+Vomiting
+Weakness
+Weight gain
+Weight loss
